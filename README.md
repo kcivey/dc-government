@@ -10,4 +10,4 @@ Expansions could include additional DC Register information (e.g. notices, mayor
 
 ## Status
 
-No code has been written! Expect some groundwork to be laid before [the Open DC Code Hackathon](http://dccode.eventbrite.com/) on April 14th, and for lots of work to be done on it there.
+No code has been written! Expect some [groundwork to be laid](https://github.com/openlawdc/dc-government/issues/1) before [the Open DC Code Hackathon](http://dccode.eventbrite.com/) on April 14th, and for lots of work to be done on it there.
