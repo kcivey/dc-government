@@ -6,7 +6,7 @@ A set of scrapers and parsers to create bulk data (JSON metadata, original docum
 * Current Council members (from [Open States](http://openstates.org/))
 * Proposed and final regulations (from the [DC Register](http://www.dcregs.dc.gov/Gateway/IssueList.aspx))
 
-Expansions could include additional DC Register information (e.g. notices, mayoral orders, hearings), and adapting @tmcw's [DC Municipal Regulations parser](/tmcw/dcmr).
+Expansions could include additional DC Register information (e.g. notices, mayoral orders, hearings), and adapting [@tmcw](/tmcw)'s [DC Municipal Regulations parser](/tmcw/dcmr).
 
 ## Status
 
